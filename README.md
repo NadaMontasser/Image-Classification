@@ -1,5 +1,8 @@
 # Image-Classification
-
+Models used in this project:
+1) KNN from Scracth
+2) Logistic Regression
+3)Support Vector Machine
 
 ##we had 10 models, one for each class on the train. The LR provides Accuracy of Predicted Class: 36.46%, also trained the model on 20000 samples and test on 10000 samples 
 
